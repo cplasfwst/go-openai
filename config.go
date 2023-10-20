@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	openaiAPIURLv1                 = "https://api.openai.com/v1"
+	openaiAPIURLv1                 = "https://gateway.ai.cloudflare.com/v1/6c2fdf077f458cb7456ecea794a918f3/my-dy/openai"
 	defaultEmptyMessagesLimit uint = 300
 
 	azureAPIPrefix         = "openai"
