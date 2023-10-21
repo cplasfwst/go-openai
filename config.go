@@ -7,7 +7,7 @@ import (
 
 const (
 	//openaiAPIURLv1                 = "https://gateway.ai.cloudflare.com/v1/6c2fdf077f458cb7456ecea794a918f3/my-dy/openai"
-	openaiAPIURLv1                 = "github.com/cplasfwst/go-openai"
+	openaiAPIURLv1                 = "http://103.74.172.155:3000/api"
 	defaultEmptyMessagesLimit uint = 300
 
 	azureAPIPrefix         = "openai"
